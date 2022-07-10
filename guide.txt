@@ -1,0 +1,9 @@
+//Express-Generator
+
+. npm install -g express-generator        //Installing Express-Generator
+
+. express ExpressServer				//Create Folder Hierarchy
+
+. npm install        				//For Installing all remaning dependencies        
+
+. npm start                               //Starting Project
